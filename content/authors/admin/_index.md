@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Angelo Polito
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Angelo
+last_name: Polito
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧑🏻‍💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,23 +21,19 @@ role: Director of Cloud Infrastructure
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Università degli Studi di Bari "Aldo Moro"
+    url: https://www.uniba.it/it/ricerca/dipartimenti/informatica
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: 'mailto:angelo.polito3@gmail.com'
+    label: E-mail
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/angpolito
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/angpolito
 
 education:
   - area: PhD Artificial Intelligence
